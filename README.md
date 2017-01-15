@@ -1,6 +1,8 @@
 # Mars Rover
 Written in Ruby and tested with RSPEC
 
+Problem: [read here](http://pastebin.com/raw/0ZB0FSLx)
+
 ## How to run
 
 Run tests:
